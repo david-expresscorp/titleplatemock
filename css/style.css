@@ -202,12 +202,15 @@ display:inline-block;
 }
 .banner-info p{
 	color: #FFF;
+	background-color: black;
 	line-height: 1.5em;
 	font-size: 1.2em;
 	width:70%;
 	margin:0 auto;
+	margin-top: 2%;
 	text-align: center;
-	padding:1em 0 1.5em 0;
+	padding:.6em 0 .6em 0;
+	border-radius: 5px;
 }
 .callbacks_container {
   position: relative;
