@@ -279,7 +279,7 @@ display:inline-block;
 }
 /*----*/
 .items{
-	padding:4em 0;
+	padding:2em 0;
 }
 .feature-grid img {
     width: 100%;
@@ -767,7 +767,7 @@ background-position:-167px -36px;
 	float:none;
 }
 .items{
-	margin:10px 0 0px 17px;
+	margin:10px 0 0 0;
 }
 .item_add:hover {
 	background:#ed645c;
@@ -2151,11 +2151,11 @@ ul.place li.sort {
     float: none;
 	margin-top: 2em;
 }
-.form-control {
+/*.form-control {
     width: 84%;
     margin-right:5%;
     float: left;
-}
+}*/
 .navbar-form .form-group {
     margin-bottom: 0px;
 }
@@ -2176,9 +2176,9 @@ span.item_price {
 .box_1 {
     width: 19%;
 }
-.form-control {
+/*.form-control {
     width: 78%;
-}
+}*/
 }
 @media (max-width: 568px){
 .top-nav {
@@ -2262,9 +2262,9 @@ span.item_price {
 .product-grid {
     width: 46%;
 }
-.form-control {
+/*.form-control {
     width: 79%;
-}
+}*/
 .single-para h5 {
     font-size: 1.5em;
 }
@@ -2366,9 +2366,9 @@ input.item_add.items {
 .item_quantity {
     width: 32% !important;
 }
-.form-control {
+/*.form-control {
     width: 73%;
-}
+}*/
 .subscribe form input[type="text"] {
     width: 61%;
 }
@@ -2428,10 +2428,10 @@ input.item_add.items {
     padding-top:10px;
     margin-right: 0;
 }
-.form-control {
+/*.form-control {
     width: 69%;
     margin-left: 0.5em;
-}
+}*/
 .top-sing {
     margin-bottom: 2em;
 }
